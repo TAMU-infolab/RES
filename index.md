@@ -10,4 +10,4 @@ TODO
 TODO
 
 ## Live online service
-Live online service will be made publicaly accessible by Feburary 2022. Stay tuned!
+Live online service will be made publicly accessible by Feburary 2022. Stay tuned!
