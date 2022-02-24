@@ -3,11 +3,8 @@
 
 
 ## Publication
-TODO
-
-
-## Setup local service
-TODO
+RES: An Interpretable Replicability Estimation System for Research Publications
+AAAI 2022
 
 ## Live online service
-Live online service will be made publicly accessible by Feburary 2022. Stay tuned!
+Live online service is publicly accessible [here](http://18.188.148.144:8080/).
